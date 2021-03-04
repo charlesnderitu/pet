@@ -1,0 +1,33 @@
+
+  h1 {
+    color: blue;
+    text-align: center;
+  }
+  h2 {
+    color: green;
+    font-style: italic;
+    text-align: center;
+  }
+
+  body{
+    background-color: bisque;
+    font-family: Arial, Helvetica, sans-serif;
+    font font-size:20;
+    font weight:normal
+
+  }
+
+  container{
+          width:80%;
+          margin:auto;
+
+
+  }
+
+
+  p {
+    font-family: sans-serif;
+  }
+  ul {
+    line-height: 40px;
+  }
